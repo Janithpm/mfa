@@ -1,4 +1,4 @@
-import { MfaSetup } from './components/mfa-setup'
+import { MfaSetup } from '@/components/mfa-setup'
 
 export default function Home() {
   return (
